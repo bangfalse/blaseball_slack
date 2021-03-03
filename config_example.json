@@ -1,0 +1,9 @@
+{
+  "token": "** insert token from 'add to Slack' here",
+  "channel": "blaseball",
+  "owner_id": "** insert owner's Slack member ID here - view your profile in Slack, click on the '...', and click 'Copy member ID' **",
+  "base_url": "https://www.blaseball.com",
+  "timezone": "US/Pacific",
+  "extended_siesta": false,
+  "paused": false
+}
